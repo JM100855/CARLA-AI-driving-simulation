@@ -102,7 +102,7 @@ A lightweight web interface allows users to:
 ## 👥 Contributors
 
 - **Joshita Malla** – MS AI, Stony Brook University  
-- **Bilal El Jamal** – Stony Brook University  
+- **Bilal El Jamal** – PHD CE, Stony Brook University  
 
 ---
 
