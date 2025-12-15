@@ -1,0 +1,4 @@
+This folder contains the source code for the drowsiness classifier. 
+Image files are named using a letter–number combination, followed by a value in brackets indicating the model’s prediction confidence (probability) for that image.
+The folder includes the CNN models used for classification.
+The shape_predictor_68_face_landmarks.dat file enables extraction of 68 facial landmarks used in downstream drowsiness feature computation and classification.
